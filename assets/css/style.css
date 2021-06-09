@@ -404,6 +404,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 0.9);
   margin: 10px 0 0 0;
   font-size: 20px;
+  font-weight: bold;
 }
 #hero h3 {
   color: rgba(255, 255, 255, 0.9);
@@ -750,6 +751,8 @@ section {
   border-top: solid 4px #ffc451;
   border-bottom: solid 4px #ffc451;
   border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 /*--------------------------------------------------------------
